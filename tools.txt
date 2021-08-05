@@ -1,0 +1,9 @@
+FE:
+HTML 5
+CSS 3
+Bootstrap 5
+JavaScript
+
+BE: 
+MongoDB, Mongoose
+NodeJs - nodemon, body-parser, expressJS
