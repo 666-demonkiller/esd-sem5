@@ -7,3 +7,6 @@ JavaScript
 BE: 
 MongoDB, Mongoose
 NodeJs - nodemon, body-parser, expressJS
+
+OS: 
+Arch Linux
